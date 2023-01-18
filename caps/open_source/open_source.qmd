@@ -1,0 +1,30 @@
+---
+title: "H2O"
+---
+
+<section>
+
+<h3> H2O-3 </h3>
+
+- 100% open-source (código aberto)
+- Algoritmos desenvolvidos para execução distribuída
+- Conecta ao R, Python e outros
+- Suporta os principais modelos estatísticos e de ML
+- Processamento em memória com serializações em nodes e clusters: até 100x mais rápido
+- Portal: <https://h2o.ai/platform/ai-cloud/make/h2o/>
+- Documentação: <https://docs.h2o.ai/h2o/latest-stable/h2o-docs/index.html>
+- Tutoriais: <https://docs.h2o.ai/h2o-tutorials/latest-stable/>
+
+</section>
+
+<section>
+
+<h2 style="text-align: center">
+
+Workflow
+
+</h2>
+
+<img src="./src/open_source/graph.jpeg" style="margin-left:35px"/>
+
+</section>

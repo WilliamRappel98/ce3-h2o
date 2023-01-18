@@ -1,0 +1,50 @@
+---
+title: "H2O"
+---
+
+<section>
+
+<h3 style="text-align: center">
+
+Sparkling Water
+
+</h3>
+
+::: columns
+::: {.column width="20%"}
+<img src="./src/icons/H2O.png" style="width:192px;height:192px;"/>
+:::
+
+::: {.column width="20%"}
+<img src="https://www.pngall.com/wp-content/uploads/10/Plus-Symbol-PNG-Images-HD.png" style="width:192px;height:192px;"/>
+:::
+
+::: {.column width="20%"}
+<img src="https://spark.apache.org/images/spark-logo-rev.svg" style="width:192px;height:192px;"/>
+:::
+
+::: {.column width="20%"}
+<img src="./src/sparkling_water/equal.png" style="width:192px;height:192px;"/>
+:::
+
+::: {.column width="20%"}
+<img src="./src/icons/SparklingWater.png" style="width:192px;height:192px;"/>
+:::
+:::
+
+- Portal: <https://h2o.ai/products/h2o-sparkling-water/?n=res11>
+- Documentação: <https://docs.h2o.ai/sparkling-water/2.3/latest-stable/doc/index.html>
+
+</section>
+
+<section>
+
+<h2 style="text-align: center">
+
+Workflow
+
+</h2>
+
+<img src="./src/sparkling_water/graph.png" width="900" style="margin-left:70px"/>
+
+</section>

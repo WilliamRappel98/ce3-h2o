@@ -1,0 +1,30 @@
+---
+title: "H2O"
+---
+
+<section>
+
+<h3 style="text-align: center">
+
+Estrutura da apresentação
+
+</h3>
+
+- Introdução ao H2O.ai
+- H2O Open Source
+- H2O AutoML
+- H2O Sparkling Water
+
+</section>
+
+<section>
+
+<h3> O que é H2O.ai? </h3>
+
+- Empresa de software de machine learning e inteligência artificial
+- Plataforma líder em algoritmos de código aberto para ML e AI
+- Auxiliar no desenvolvimento de modelos de ML de ponta a ponta
+- Soluções: H2O AI Cloud, H2O Driverless AI, H2O-3, H2O Document AI, H2O Wave, ...
+- Portal: <https://h2o.ai/pt/>
+
+</section>

@@ -1,0 +1,72 @@
+---
+title: "H2O"
+subtitle: "Computação em Estatística para Dados e Cálculos Massivos"
+author: 
+  - William Rappel
+  - 22/0006032
+  - Prof. Guilherme Rodrigues
+format:
+  revealjs:
+    incremental: true 
+    theme: dark
+    code-block-border-left: "#31BAE9"
+    code-block-bg: "#011627"
+    code-overflow: wrap
+    highlight-style: dracula
+    transition: fade
+    self-contained: true
+knitr:
+  opts_chunk:
+    echo: true
+    warnings: false
+editor: source
+---
+
+<section>
+
+<h1 style="text-align: center">
+
+Tech Stack
+
+</h1>
+
+::: columns
+::: {.column width="33%"}
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" style="width:192px;height:192px; margin-bottom:75px;"/>
+
+<img src="./src/icons/Quarto.png" style="width:192px;height:192px;"/>
+:::
+
+::: {.column width="33%"}
+<img src="https://static.slid.es/reveal/logo-v1/reveal-white-text.svg" style="width:192px;height:192px;"/>
+
+<img src="https://spark.apache.org/images/spark-logo-rev.svg" style="width:192px;height:192px;"/>
+:::
+
+::: {.column width="33%"}
+<img src="./src/icons/H2O.png" style="width:192px;height:192px; margin-bottom:75px;"/>
+
+<img src="./src/icons/SparklingWater.png" style="width:192px;height:192px;"/>
+:::
+:::
+
+</section>
+
+{{< include caps/intro/introducao.qmd >}}
+{{< include caps/open_source/open_source.qmd >}}
+{{< include caps/automl/automl.qmd >}}
+{{< include caps/sparkling_water/sparkling_water.qmd >}}
+
+</section>
+
+<section>
+
+<h1 style="text-align: center">
+
+Obrigado!!!
+
+</h1>
+
+<img src="./src/icons/H2O.png" style="margin-left:330px" width="374"/>
+
+</section>

@@ -1,0 +1,30 @@
+---
+title: "H2O"
+---
+
+<section>
+
+<h3> H2O AutoML </h3>
+
+- Automaticamente realiza criação de features, seleção do algoritmo, tuning dos hiperparâmetros
+- Abstrai as tarefas repetitivas
+- Foco no importante: dados e problemas de negócio
+- Pode ajudar a melhorar a performance
+- Baseline inicial rápido e, frequentemente, satisfatório
+- Escalável para clusters (Hadoop, Spark, Kubernets)
+- Portal: <https://h2o.ai/platform/h2o-automl/?n=res9>
+- Documentação: <https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html>
+
+</section>
+
+<section>
+
+<h2 style="text-align: center">
+
+Principais Features
+
+</h2>
+
+<img src="./src/automl/features.png" style="margin-left:35px"/>
+
+</section>
